@@ -9,7 +9,12 @@
       "Year": "2019",
       "Genre": "Animation",
       "Duration": "1ω. 30λ.",
-      "isUnlocked": true
+      "isUnlocked": true, 
+"Type" : "m3u8", 
+"StartString" :"'hls': '", 
+"EndString" : "',", 
+"Start" : 8,
+"End": 0
     },
     {
       "Title": "Το τέρας της θάλασσας",
