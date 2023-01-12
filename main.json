@@ -1,86 +1,20 @@
 {
   "Movies": [
     {
-      "Title": "Ενωμένες Πατούσες",
-      "ImageBack": "https://greek-movies.com/icon/movie/%CE%95%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%B5%CF%82%CE%A0%CE%B1%CF%84%CE%BF%CF%8D%CF%83%CE%B5%CF%822019.jpg",
-      "ImageMain": "https://www.athinorama.gr/lmnts/events/cinema/10067489/Poster.jpg?w=250&h=300&mode=pad&bgcolor=191919",
-      "Video": "https://745mingiestblissfully.com/x578mqvafars",
-      "Description": "Στην τεχνολογικά αναπτυγμένη ΡόμποΣίτι, όπου ο αδέσποτος επαναστάτης Ρότζερ και μια παρέα από κακομαθημένα κατοικίδια έρχονται αντιμέτωποι με τον δήμαρχο Φρανκ Στόουν και την πανστρατιά από τα ανίκητα ρομπότ του για να σώσουν την ανθρωπότητα.",
-      "Year": "2019",
-      "Genre": "Animation",
-      "Duration": "1ω. 30λ.",
-      "isUnlocked": true, 
-"Type" : "m3u8", 
-"StartString" :"'hls': '", 
-"EndString" : "',", 
-"Start" : 8,
-"End": 0
-    },
-    {
-      "Title": "Το τέρας της θάλασσας",
-      "ImageBack": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABa4B1BERV9SQXpmbj-5f8nuGTBkCKxitlGb98lqdGNzmg8I6IQ3Balt4h0DJiVBUyJ1G2I2cRbD4uK1N7Y-hioxpEdDUD9tACE0b.jpg",
-      "ImageMain": "https://greek-movies.com/icon/movie/%CE%A4%CE%9F%CE%A4%CE%95%CE%A1%CE%91%CE%A3%CE%A4%CE%97%CE%A3%CE%98%CE%91%CE%9B%CE%91%CE%A3%CE%A3%CE%91%CE%A3%CE%9C%CE%95%CE%A4%CE%91%CE%93%CE%9B%CE%A9%CE%A4%CE%99%CE%A3%CE%9C%CE%95%CE%9D%CE%9F2022.jpg",
-      "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=bapKRFCaHszGIl-EjXLN4WqG88xiGphRj8mw7Ba2PhY&s=1673299740&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
-      "Description": "Όταν ένα κορίτσι μπαίνει λαθραία στο καράβι ενός θρυλικού κυνηγού θαλάσσιων τεράτων, ξεκινούν όλοι μαζί μια επική αποστολή σε αχαρτογράφητα ύδατα — και γράφουν ιστορία.",
-      "Year": 2022,
-      "Genre": "Οικογενειακές ταινίες",
-      "Duration": "1ώ 59λ",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Ο Δράκος του Πατέρα μου",
-      "ImageBack": "https://images.ctfassets.net/4cd45et68cgf/7xIrScosmPxJGohXEyNmhW/a8cbdafbcf2540ecc06b316c4fd2809b/image1.jpg?w=2560",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BOTA1YWEyNTYtN2EzNC00YWM3LThmOWUtY2I3YTA0YjkyZmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
-      "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=bapKRFCaHszGIl-EjXLN4WqG88xiGphRj8mw7Ba2PhY&s=1673299740&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
-      "Description": "Ένα αγόρι φεύγει από τη Ζοφερή Πόλη και ταξιδεύει στο μυστηριώδες Άγριο Νησί, όπου γνωρίζει τρομερά θηρία – και αποκτά έναν παντοτινό φίλο.",
-      "Year": 2022,
-      "Genre": "Οικογενειακές ταινίες",
-      "Duration": "1ώ 43λ",
-      "isUnlocked": true
-    },
-    {
-      "Title": "DIARY OF A WIMPY KID: RODRICK RULES",
-      "ImageBack": "https://images.ctfassets.net/4cd45et68cgf/7xIrScosmPxJGohXEyNmhW/a8cbdafbcf2540ecc06b316c4fd2809b/image1.jpg?w=2560",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BODZlNTliNmItOTBhMi00NTk2LWJkYWQtODA0MGNkMGQzZjFhXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=bapKRFCaHszGIl-EjXLN4WqG88xiGphRj8mw7Ba2PhY&s=1673299740&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
-      "Description": "Ένα αγόρι φεύγει από τη Ζοφερή Πόλη και ταξιδεύει στο μυστηριώδες Άγριο Νησί, όπου γνωρίζει τρομερά θηρία – και αποκτά έναν παντοτινό φίλο.",
-      "Year": 2022,
-      "Genre": "Κινούμενα Σχέδια, Περιπέτεια",
-      "Duration": "1ώ 43λ",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Άιβι και Μπιν: Tο Φάντασμα που Έπρεπε να Φύγει",
-      "ImageBack": "https://occ-0-3481-2773.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfUDxcZSYBx-OpsQZlmwCHGwRsYkyWalVF4MQxjLVhrT_O3RnF5yzopla2ogBzddZG2pghCS0Ag936Tfw3o5YoLtbWa6SoBkqARm.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BODZlNTliNmItOTBhMi00NTk2LWJkYWQtODA0MGNkMGQzZjFhXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=bapKRFCaHszGIl-EjXLN4WqG88xiGphRj8mw7Ba2PhY&s=1673299740&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
-      "Description": "Κρύα, λευκή ομίχλη. Σωλήνες που κάνουν φασαρία. Και μια απόκοσμη φωνή από τη σχάρα. Είναι... στοιχειωμένες οι τουαλέτες του σχολείου; Η Άιβι κι η Μπιν αναλαμβάνουν!",
-      "Year": 2022,
-      "Genre": "Κινούμενα Σχέδια, Κωμωδίες",
-      "Duration": "1ώ 1λ",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Η Εποχή των Παγετώνων: Οι Περιπέτειες του Μπακ Γουάιλντ",
-      "ImageBack": "https://www.themoviedb.org/t/p/original/xm8RWleHsR9mtauwHXHq9vsN2n6.jpg",
-      "ImageMain": "https://greek-movies.com/icon/movie/TheIceAgeAdventuresofBuckWild%CE%9C%CE%95%CE%A4%CE%91%CE%93%CE%9B%CE%A9%CE%A4%CE%99%CE%A3%CE%9C%CE%95%CE%9D%CE%9F2022.jpg",
-      "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=bapKRFCaHszGIl-EjXLN4WqG88xiGphRj8mw7Ba2PhY&s=1673299740&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
-      "Description": "Αναζητώντας λίγη ανεξαρτησία, τα περιπετειώδη αδέλφια οπόσουμ Κρας και Έντι ξεκινούν την αναζήτηση για να ένα ολότελα δικό τους μέρος, για να βρεθούν όμως παγιδευμένοι ανάμεσα στον πάγο και μια σπηλιά γεμάτη δεινοσαύρους. Η σωτηρία θα έρθει από την “πειρατική” νυφίτσα Μπακ Γουάιλντ, και με κάποιους ακόμα νέους φίλους στην παρέα, θέτουν ως αποστολή να σώσουν τον Χαμένο Κόσμο από την κυριαρχία των τεράστιων σαυρών.",
-      "Year": 2022,
-      "Genre": "Κινούμενα Σχέδια, Κωμωδίες",
-      "Duration": "1ώ 22λ",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Οι Σκανταλιάρηδες",
-      "ImageBack": "https://files2.app.ertflix.gr/files/elfkins-ertflix-bg.jpg?m=crop&w=1920&h=960",
-      "ImageMain": "https://files2.app.ertflix.gr/files/elfkins-ertflix-img.jpg?m=crop&w=854&h=481",
-      "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=bapKRFCaHszGIl-EjXLN4WqG88xiGphRj8mw7Ba2PhY&s=1673299740&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
-      "Description": "Σύμφωνα με έναν διάσημο γερμανικό θρύλο, τα σκανταλιάρικα ξωτικά της Κολονίας έβγαιναν κάθε βράδυ και βοηθούσαν κρυφά τους τεχνίτες της πόλης. Πριν από 200 χρόνια όμως, η σύζυγος ενός ράφτη τα έδιωξε. Από τότε, οι Σκανταλιάρηδες ζουν κάτω από τη γη, μακριά από τους ανθρώπους. Μία μέρα, όμως, η ζωηρούλα Έλφι αποφασίζει να μην ανεχτεί άλλο αυτούς τους περιορισμούς. Μαζί με δύο φίλους της, σκαρφαλώνει στην επιφάνεια της γης, αποφασισμένη να βρει τον πραγματικό της προορισμό στη ζωή. Μετά από ξεκαρδιστικές περιπέτειες, η Έλφι πιάνει φιλίες με τον γκρινιάρη ζαχαροπλάστη Θίο και όλοι μαζί οι Σκανταλιάρηδες καταλαβαίνουν ποιος είναι ο σκοπός τους στη ζωή: να βοηθάνε τους άλλους!",
-      "Year": 2022,
-      "Genre": "Κινούμενα Σχέδια, Κωμωδίες",
-      "Duration": "1ώ 15λ",
-      "isUnlocked": true
+      "Title": "Cars 3",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BMTcxOTE5ODk4NV5BMl5BanBnXkFtZTgwNzY5MjA2MjI@._V1_.jpg",
+      "ImageMain": "https://lumiere-a.akamaihd.net/v1/images/p_cars3_19643_3ab8aca1.jpeg?region=0%2C0%2C540%2C810",
+      "Video": "https://745mingiestblissfully.com/26503s8kfavj",
+      "Description": "Ο Κεραυνός ΜακΚουίν στην τρίτη του περιπέτεια είναι το ίδιο αεικίνητος, νοσταλγικός και (υπερβολικά) παιδικός όσο και την πρώτη ή τη δεύτερη φορά που πάτησε γκάζι στο σινεμά.",
+      "Year": "2017",
+      "Genre": "Animation, Οικογενειακές Ταινίες, Παιδικά",
+      "Duration": "109 λεπτά",
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
     }
   ]
 }
