@@ -2,6 +2,22 @@
   "Movies": [
     {
       "Title": "Πινόκιο του Γκιγιέρμο Ντελ Τόρο",
+      "ImageBack": "https://www.lifo.gr/sites/default/files/styles/facebook_with_logo/public/movies/2022/TAD2.jpg?itok=NqHLPCw4",
+      "ImageMain": "https://www.filmy.gr/wp-content/uploads/2022/09/Tadeo-Jones-3-la-Tabla-Esmeralda-50.jpg",
+      "Video": "https://voe.sx/wtq375i5ghzn",
+      "Description": "Ο ατζαμής αρχαιολόγος Ταντ επιθυμεί την αποδοχή των συναδέλφων του, αλλά η αδεξιότητά του στέκεται εμπόδιο στο όνειρό του. Όταν διαλύει κατά λάθος μια σπάνια σαρκοφάγο, απελευθερώνεται ένα ξόρκι που θέτει τη ζωή των φίλων του σε κίνδυνο. Ο Ταντ και η Σάρα θα ξεκινήσουν ένα περιπετειώδες ταξίδι που θα τους οδηγήσει μέχρι την άκρη του κόσμου, για να τους σώσουν και να σταματήσουν την κατάρα της Σμαραγδένιας Πλάκας.",
+      "Year": "2022",
+      "Genre": "\nΚινούμενα Σχέδια, Οικογενειακή",
+      "Duration": "1 ωρ. 24 λεπ.",
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    },
+    {
+      "Title": "Πινόκιο του Γκιγιέρμο Ντελ Τόρο",
       "ImageBack": "https://www.goldmall.gr/portal-img/default/28/pinocchio-31.jpg",
       "ImageMain": "https://www.athinorama.gr/Content/ImagesDatabase/83/834d46563e2749dd96737c76a22f1b42.jpg",
       "Video": "https://745mingiestblissfully.com/950vji5ltr2p",
