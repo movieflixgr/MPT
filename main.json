@@ -1,6 +1,22 @@
 {
   "Movies": [
     {
+      "Title": "Αρχηγός από Κούνια",
+      "ImageBack": "https://i.ytimg.com/vi/alML1SKA2wg/maxresdefault.jpg",
+      "ImageMain": "https://greek-movies.com/icon/movie/%CE%91%CE%A1%CE%A7%CE%97%CE%93%CE%9F%CE%A3%CE%91%CE%A0%CE%9F%CE%9A%CE%9F%CE%A5%CE%9D%CE%99%CE%912017.jpg",
+      "Video": "https://voe.sx/cxyyyfjjgq1g",
+      "Description": "Ο 7χρονος Τιμ περνάει ζωή χαρισάμενη, τρισευτυχισμένος με τους γονείς του. Όταν όμως καταφθάνει στο σπίτι τους με ταξί ένα μωρό, φορώντας κοστούμι και κουβαλώντας χαρτοφύλακα, όλος ο κόσμος του Τιμ ανατρέπεται. Σύντομα, ο αδελφικός ανταγωνισμός παραμερίζεται αναγκαστικά όταν ο τελευταίος ανακαλύπτει ότι ο μικρός αδελφός του είναι στη πραγματικότητα ένας κατάσκοπος σε μια μυστική κρυφή αποστολή και ότι μόνο αυτός μπορεί να τον βοηθήσει να τα βγάλει πέρα.",
+      "Year": "2017",
+      "Genre": "Κινούμενα Σχέδια, Οικογένεια",
+      "Duration": "1 ωρ. 37 λεπ.",
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    },
+    {
       "Title": "Πινόκιο του Γκιγιέρμο Ντελ Τόρο",
       "ImageBack": "https://www.lifo.gr/sites/default/files/styles/facebook_with_logo/public/movies/2022/TAD2.jpg?itok=NqHLPCw4",
       "ImageMain": "https://www.filmy.gr/wp-content/uploads/2022/09/Tadeo-Jones-3-la-Tabla-Esmeralda-50.jpg",
