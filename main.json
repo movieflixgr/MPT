@@ -1,8 +1,19 @@
 {
   "Movies": [
     {
+      "Title": "Οι Κρουντς 2: Νέα Εποχή",
+      "ImageBack": "https://media-flix-gr.s3.amazonaws.com/cache/73/91/7391326a24c4da33be3312ab7dec29fc.jpg",
+      "ImageMain": "https://i0.wp.com/www.texnopolis.net/wp-content/uploads/2021/03/CROODS2GR.jpg?fit=1266%2C1875&ssl=1",
+      "Video": "https://www.mediafire.com/file/p9i2md6v44e2xca/video.mp4/file",
+      "Description": "Κι εκεί που ένιωθαν άρχοντες στον τόπο τους, οι Κρουντς θα έρθουν αντιμέτωποι με μια τελείως διαφορετική οικογένεια, τους Μπέτερμανς, η οποία δείχνει να είναι ανώτερη σε όλα. Αποτέλεσμα αυτού είναι να ξεσπάσει ανάμεσά τους ένας ανελέητος ανταγωνισμός.",
+      "Year": "2021",
+      "Genre": "Κωμωδία, Οικογενειακή",
+      "Duration": "1 ωρ. 35 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Σπίριτ: Ο Ατίθασος",
-      "ImageBack": "https://www.filmy.gr/wp-content/uploads/2021/05/Spirit-Untamed-1-300x188.jpg",
+      "ImageBack": "https://media-flix-gr.s3.amazonaws.com/cache/c5/c6/c5c680d73439e911abdac4d2acc5182e.jpg",
       "ImageMain": "https://www.filmy.gr/wp-content/uploads/2021/05/Spirit-Untamed-50.jpg",
       "Video": "https://www.mediafire.com/file/ijaww14djqvqxuu/video.mp4/file",
       "Description": "Η μικρή και ξεροκέφαλη Λάκι Πρέσκοτ αναγκάζεται να αφήσει την πόλη για να μετακομίσει στην εξοχή. Όμως εκεί θα δεθεί αναπάντεχα με τον Σπίριτ, ένα άγριο άλογο, με αποτέλεσμα η ζωή της να αλλάξει δραματικά. Όταν οι κλέφτες ζώων θα απειλήσουν την αγέλη του Σπίριτ, τότε θα ξεκινήσει μια μεγάλη περιπέτεια ζωής και αυτοθυσίας.",
