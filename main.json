@@ -1,6 +1,17 @@
 {
   "Movies": [
     {
+      "Title": "Σπίριτ: Ο Ατίθασος",
+      "ImageBack": "https://www.filmy.gr/wp-content/uploads/2021/05/Spirit-Untamed-1-300x188.jpg",
+      "ImageMain": "https://www.filmy.gr/wp-content/uploads/2021/05/Spirit-Untamed-50.jpg",
+      "Video": "https://www.mediafire.com/file/ijaww14djqvqxuu/video.mp4/file",
+      "Description": "Η μικρή και ξεροκέφαλη Λάκι Πρέσκοτ αναγκάζεται να αφήσει την πόλη για να μετακομίσει στην εξοχή. Όμως εκεί θα δεθεί αναπάντεχα με τον Σπίριτ, ένα άγριο άλογο, με αποτέλεσμα η ζωή της να αλλάξει δραματικά. Όταν οι κλέφτες ζώων θα απειλήσουν την αγέλη του Σπίριτ, τότε θα ξεκινήσει μια μεγάλη περιπέτεια ζωής και αυτοθυσίας.",
+      "Year": "2021",
+      "Genre": "Οικογενειακή, Περιπέτεια",
+      "Duration": "1 ωρ. 27 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Soul",
       "ImageBack": "https://media.npr.org/assets/img/2021/03/23/soul-online-use-s008_6_pub.pub16.662_wide-d1c459b0724afbd601e43fc0f59319a699e37163.jpg",
       "ImageMain": "https://static.wikia.nocookie.net/pixar/images/7/78/Soul_November_20th_Poster.jpg/revision/latest?cb=20200413181147",
