@@ -1,6 +1,17 @@
 {
   "Movies": [
     {
+      "Title": "Το Τέρας της Θάλασσας",
+      "ImageBack": "https://resizing.flixster.com/k4OzlJYJVJOjoF0zdqeBMqqmZTU=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/703/819/theseabeast_v2jpg.jpg",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
+      "Video": "https://www.mediafire.com/file/nfenbec3vchh05y/video.mp4/file",
+      "Description": "Σε μια εποχή που τρομακτικά θηρία τριγυρνούσαν στις θάλασσες, οι κυνηγοί τεράτων ήταν περίφημοι ήρωες -και κανένας δεν ήταν πιο αγαπητός από τον τρανό Τζέικομπ Χόλαντ. Όταν όμως η νεαρή Μέιζι Μπραμπλ ταξιδεύει ως λαθρεπιβάτης στο θρυλικό του πλοίο, βρίσκει έναν απροσδόκητο σύμμαχο. Μαζί ξεκινούν ένα επικό ταξίδι σε αχαρτογράφητα νερά και γράφουν ιστορία.",
+      "Year": "2022",
+      "Genre": "Κινούμενα Σχέδια, Κωμωδία",
+      "Duration": "1 ωρ. 55 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Ο Παπουτσωμένος Γάτος: Η Τελευταία Επιθυμία",
       "ImageBack": "https://www.agrinionews.gr/wp-content/uploads/2022/12/puss_in_boots_slide.jpg",
       "ImageMain": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x900/crop/both/97/97f9716d730743b39c22f2cb28367779.jpg?quality=81&404=default&v=4",
