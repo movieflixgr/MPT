@@ -1,6 +1,22 @@
 {
   "Movies": [
     {
+      "Title": "Soul",
+      "ImageBack": "https://media.npr.org/assets/img/2021/03/23/soul-online-use-s008_6_pub.pub16.662_wide-d1c459b0724afbd601e43fc0f59319a699e37163.jpg",
+      "ImageMain": "https://static.wikia.nocookie.net/pixar/images/7/78/Soul_November_20th_Poster.jpg/revision/latest?cb=20200413181147",
+      "Video": "https://voe.sx/1rpcs5tot448",
+      "Description": "Ο Τζο είναι δάσκαλος μουσικής στο γυμνάσιο, πάθος του όμως είναι η τζαζ. Έτοιμος να δοκιμαστεί ως μέλος μιας περιζήτητης μπάντας, θα πέσει θύμα ατυχήματος και θα βρεθεί παγιδευμένος ανάμεσα σ’ αυτήν και την επόμενη ζωή.",
+      "Year": "2020",
+      "Genre": "Δράση, Οικογένεια",
+      "Duration": "1ώ 30λ",
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    },
+    {
       "Title": "Το Τέρας της Θάλασσας",
       "ImageBack": "https://resizing.flixster.com/k4OzlJYJVJOjoF0zdqeBMqqmZTU=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/703/819/theseabeast_v2jpg.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Sea_Beast_film_poster.png",
