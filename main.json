@@ -1,6 +1,22 @@
 {
   "Movies": [
     {
+      "Title": "Παράξενος Κόσμος",
+      "ImageBack": "https://lumiere-a.akamaihd.net/v1/images/image_5db668ff.jpeg?region=0,0,1460,824&width=768",
+      "ImageMain": "https://www.athinorama.gr/Content/ImagesDatabase/6e/6e6e0e927f55473d824efe14cf0bd5f5.jpg",
+      "Video": "https://voe.sx/gsui2mp4ip0s",
+      "Description": "Βρισκόμαστε σε μια αχαρτογράφητη και επικίνδυνη χώρα, όπου φανταστικά πλάσματα περιμένουν τους θρυλικούς Κλέιντς, μια οικογένεια εξερευνητών, των οποίων οι μεταξύ τους διαφορές απειλούν να τινάξουν στον αέρα την τελευταία -και μέχρι σήμερα- πιο σημαντική τους αποστολή.",
+      "Year": "2022",
+      "Genre": "Δράση, Οικογενειακή",
+      "Duration": "1 ωρ. 42 λεπ.",
+      "isUnlocked": true,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    },
+    {
       "Title": "Μια Ποδοσφαιρική Ταινία",
       "ImageBack": "https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQTJB_nGnjRCadb0-kZG-XWcO2Ro10JmzP5K_qAQl65uC2vqOY_ZW8pfXyGQBX4WngVnw5vcurUUNYg169oN9sUCK--AY9oC6CIMRMPZOGO_tr1xlGMP7tZMRC8TiPW2qubrl2wBVjtYrOrQCwlVnbCLXJco.jpg?r=54a",
       "ImageMain": "https://www.dvd-trailers.gr/posters/mia_podosfairiki_tainia_2022.jpg",
