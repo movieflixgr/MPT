@@ -347,6 +347,22 @@
       "EndString": "',",
       "Start": 8,
       "End": 0
+    },
+    {
+      "Title": "Μαδαγαaσκάρη 311",
+      "ImageBack": "https://occ-0-990-1360.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcIo-TE4Y5eb9LUuKuqMZ8yTZiUbnYUkpiAJzwHQNMtAhomvdzzX7ZvdXmf9sGaNzB3OVa_xgQvti3mJi722d82Yz6nwWzPzckm4.jpg?r=48c",
+      "ImageMain": "https://cityportal.gr/wp-content/uploads/2021/06/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@.jpg",
+      "Video": "https://www.mediafire.com/file/evyyljsln735uaf/01",
+      "Description": "Ο Άλεξ το λιοντάρι, ο Μάρτι η ζέβρα, ο Μέλμαν η καμηλοπάρδαλη και η Γκλόρια η ιπποποταμίνα ακόμη παλεύουν να επιστρέψουν στο σπίτι τους, στο αγαπημένο «Μεγάλο Μήλο». Φυσικά και ο βασιλιάς Τζουλιάν, ο Μορίς και οι Πιγκουίνοι θα αποτελέσουν μέρος αυτής της περιπέτειας. Το ταξίδι τους αυτή τη φορά θα τους οδηγήσει στην Ευρώπη, όπου θα ανακαλύψουν την τέλεια κάλυψη: ένα περιοδεύων τσίρκο, το οποίο θα ξαναστήσουν από την αρχή και θα το χρησιμοποιήσουν για να καταφέρουν τον στόχο τους.",
+      "Year": "2012",
+      "Genre": "Κωμωδία, Κινούμενα Σχέδια",
+      "Duration": "1 ωρ. 33 λεπ.",
+      "isUnlocked": true,
+      "Type": "https",
+      "StartString": "window.location.href = '",
+      "EndString": "';",
+      "Start": 24,
+      "End": 0
     }
   ]
 }
