@@ -10,7 +10,7 @@
       "Genre": "Animation, Οικογένεια",
       "Duration": "1 ωρ. 35 λεπ.",
       "isUnlocked": true,
-"fetch Video" : true, 
+"fetchVideo" : true, 
 "beforeEnd" : "0",
       "Type": "m3u8",
       "StartString": "'hls': '",
