@@ -243,7 +243,14 @@
       "Year": "2021",
       "Genre": "Κωμωδία, Οικογενειακή",
       "Duration": "1 ωρ. 35 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 5
     },
     {
       "Title": "Σπίριτ: Ο Ατίθασος",
@@ -254,7 +261,14 @@
       "Year": "2021",
       "Genre": "Οικογενειακή, Περιπέτεια",
       "Duration": "1 ωρ. 27 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 5
     },
     {
       "Title": "Soul",
@@ -283,8 +297,14 @@
       "Year": "2022",
       "Genre": "Κινούμενα Σχέδια, Κωμωδία",
       "Duration": "1 ωρ. 55 λεπ.",
-      "isUnlocked": true
-    },
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 5    },
     {
       "Title": "Ο Παπουτσωμένος Γάτος: Η Τελευταία Επιθυμία",
       "ImageBack": "https://www.agrinionews.gr/wp-content/uploads/2022/12/puss_in_boots_slide.jpg",
@@ -294,8 +314,14 @@
       "Year": "2022",
       "Genre": "Κινούμενα Σχέδια, Οικογένεια",
       "Duration": "1 ωρ. 40 λεπ.",
-      "isUnlocked": true
-    },
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 5    },
     {
       "Title": "Φεγγάρι, σου 'ρχομαι",
       "ImageBack": "https://occ-0-987-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaj_25YqUB2SR9SW-PzRu4jQnb5M2sCipjnUwsUe-Q9YaQVpI2WFxPmm1PLUYbE4fnp-B-cdkWdFjrP8o-QSfVvn0s7SCsyP-7Tj.jpg?r=12f",
