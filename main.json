@@ -12,8 +12,8 @@
       "isUnlocked": true,
       "fetchVideo": true,
       "beforeEnd": "0",
-      "Type": "m3u8",
-      "StartString": "'hls': '",
+      "Type": "mp4",
+      "StartString": "'mp4': '",
       "EndString": "',",
       "Start": 8,
       "End": 0
