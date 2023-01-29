@@ -16,7 +16,8 @@
       "StartString": "'mp4': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": " ΕΝΚΑΝΤΟ: ΕΝΑΣ ΚΟΣΜΟΣ ΜΑΓΙΚΟΣ",
@@ -34,7 +35,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Τα Κακά Παιδιά",
@@ -52,7 +54,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Τραγούδα! 2",
@@ -70,7 +73,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Toy Story 4",
@@ -88,7 +92,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Η Ράια και ο τελευταίος Δράκος",
@@ -106,7 +111,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Ξενοδοχείο για τέρατα 3",
@@ -124,7 +130,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Μαδαγασκάρη",
@@ -142,7 +149,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Μαδαγασκάρη 2",
@@ -160,7 +168,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Μαδαγασκάρη 3",
@@ -178,7 +187,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Μπομπ Σφουγγαράκης: Επιχείρηση διάσωσης",
@@ -196,7 +206,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Παράξενος Κόσμος",
@@ -214,7 +225,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Μια Ποδοσφαιρική Ταινία",
@@ -232,7 +244,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Οι Κρουντς 2: Νέα Εποχή",
@@ -250,7 +263,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 5
+      "End": 5,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Σπίριτ: Ο Ατίθασος",
@@ -268,7 +282,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 5
+      "End": 5,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Soul",
@@ -286,7 +301,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Το Τέρας της Θάλασσας",
@@ -304,7 +320,9 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 5    },
+      "End": 5,
+      "Fetch": "MediaFire"
+    },
     {
       "Title": "Ο Παπουτσωμένος Γάτος: Η Τελευταία Επιθυμία",
       "ImageBack": "https://www.agrinionews.gr/wp-content/uploads/2022/12/puss_in_boots_slide.jpg",
@@ -321,7 +339,9 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 5    },
+      "End": 5,
+      "Fetch": "MediaFire"
+    },
     {
       "Title": "Φεγγάρι, σου 'ρχομαι",
       "ImageBack": "https://occ-0-987-32.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaj_25YqUB2SR9SW-PzRu4jQnb5M2sCipjnUwsUe-Q9YaQVpI2WFxPmm1PLUYbE4fnp-B-cdkWdFjrP8o-QSfVvn0s7SCsyP-7Tj.jpg?r=12f",
@@ -338,7 +358,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Αρχηγός από Κούνια",
@@ -356,7 +377,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Πινόκιο του Γκιγιέρμο Ντελ Τόρο",
@@ -374,7 +396,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Πινόκιο του Γκιγιέρμο Ντελ Τόρο",
@@ -392,7 +415,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     },
     {
       "Title": "Cars 3",
@@ -410,7 +434,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": 8,
-      "End": 0
+      "End": 0,
+      "Fetch": "Voe"
     }
   ]
 }
