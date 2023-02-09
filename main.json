@@ -1,6 +1,25 @@
 {
   "Movies": [
     {
+      "Title": "Emoji",
+      "ImageBack": "https://www1.cbn.com/sites/default/files/styles/original/public/the-emoji-movie_SI.jpg?itok=4tQwzN5m#vid=2314551",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BNjY0YTI1YzMtZGFkYS00ZTc3LWJjMTEtZWFmMDdkZDk5YWIwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+      "Video": "https://voe.sx/cz1tyxmfxz1v",
+      "Description": "Βρισκόμαστε μέσα σε ένα smartphone. Κρυμμένη μέσα σε μηνύματα και εφαρμογές βρίσκεται η Textopolis, μια πόλη όπου ζουν όλα τα Emoji, ελπίζοντας να επιλεγούν από τον χρήστη της συσκευής. Το κάθε ένα από αυτά έχει μονάχα μία οπτική έκφανση, εκτός από τον Τζιν, ένα πλουσιοπάροχο emoji που γεννήθηκε δίχως φίλτρο και εμφανίζεται στον χρήστη μέσω διαφόρων εκφάνσεων. Αποφασισμένο να γίνει «νορμάλ» όπως τα υπόλοιπα emoji, ο Τζιν στρατολογεί τη βοήθεια του φιλαράκου του, Hi-5, και της διαβόητης Jailbreak, ειδήμον στο σπάσιμο κωδικών. Οι τρεις τους θα ξεκινήσουν ένα ψηφιακό ταξίδι μέσα από τις εφαρμογές του τηλεφώνου, για να βρουν τον Κώδικα που θα διορθώσει τον Τζιν.",
+      "Year": "2017",
+      "Genre": "Κινούμενα Σχέδια, Περιπέτεια",
+      "Duration": "1 ωρ. 26 λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "mp4",
+      "StartString": "'mp4': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0,
+      "Fetch": "Voe"
+    },
+    {
       "Title": "Ζωούπολη",
       "ImageBack": "https://www.in.gr/wp-content/uploads//validated_ingr/wwwroot/www.in.gr/files/1/Media/2016/01/21/24135846_zootopia-hopps.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/el/thumb/e/ea/Zootopia.jpg/240px-Zootopia.jpg",
