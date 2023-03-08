@@ -270,7 +270,7 @@
       "Title": "Μπομπ Σφουγγαράκης: Επιχείρηση διάσωσης",
       "ImageBack": "https://i.ytimg.com/vi/Sw-LPKUJTgA/maxresdefault.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/el/3/38/The_SpongeBob_Movie_Sponge_on_the_Run.jpg",
-      "Video": "https://voe.sx/d88ripskge1x",
+      "Video": "https://www.mediafire.com/file_premium/bhzn4xjeif5flow/video/file",
       "Description": "Όταν ο Γκάρι, το αγαπημένο κατοικίδιο σαλιγκάρι του Μπομπ, πέφτει θύμα απαγωγής, ο Μπομπ μαζί με τον Πάτρικ ξεκινούν μια επική περιπέτεια στη Χαμένη Πόλη της Ατλαντίδας για να φέρουν τον Γκάρι πίσω στο σπίτι. Καθώς περιπλανιούνται στις απολαύσεις και τους κινδύνους αυτής της επικίνδυνης και ξεκαρδιστικής αποστολής διάσωσης, ο Μπομπ και οι φίλοι του αποδεικνύουν ότι δεν υπάρχει τίποτα ισχυρότερο από τη δύναμη της φιλίας.",
       "Year": "2020",
       "Genre": "Κινούμενα Σχέδια, Οικογενειακή",
@@ -278,12 +278,12 @@
       "isUnlocked": true,
       "fetchVideo": true,
       "beforeEnd": "0",
-      "Type": "m3u8",
-      "StartString": "'hls': '",
-      "EndString": "',",
-      "Start": 8,
-      "End": 0,
-      "Fetch": "Voe"
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 5,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Παράξενος Κόσμος",
