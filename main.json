@@ -308,20 +308,20 @@
       "Title": "Μπομπ Σφουγγαράκης: Επιχείρηση διάσωσης",
       "ImageBack": "https://i.ytimg.com/vi/Sw-LPKUJTgA/maxresdefault.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/el/3/38/The_SpongeBob_Movie_Sponge_on_the_Run.jpg",
-      "Video": "https://alphavod.siliconweb.com/2022-2023/protagonistes/20230312_PROTAGONISTES_S02_EPS006_1bc0728e.mp4?__token__=st=1678734386~exp=1679598386~acl=/2022-2023/protagonistes/20230312_PROTAGONISTES_S02_EPS006_1bc0728e.mp4*~hmac=2efb8f3afa5529932aac277456927d7eb0a47b6a844bcf0868e89a0b6889099e",
+      "Video": "https://www.mediafire.com/file_premium/qrreb6jogodtv3c/video/file",
       "Description": "Όταν ο Γκάρι, το αγαπημένο κατοικίδιο σαλιγκάρι του Μπομπ, πέφτει θύμα απαγωγής, ο Μπομπ μαζί με τον Πάτρικ ξεκινούν μια επική περιπέτεια στη Χαμένη Πόλη της Ατλαντίδας για να φέρουν τον Γκάρι πίσω στο σπίτι. Καθώς περιπλανιούνται στις απολαύσεις και τους κινδύνους αυτής της επικίνδυνης και ξεκαρδιστικής αποστολής διάσωσης, ο Μπομπ και οι φίλοι του αποδεικνύουν ότι δεν υπάρχει τίποτα ισχυρότερο από τη δύναμη της φιλίας.",
       "Year": "2020",
       "Genre": "Κινούμενα Σχέδια, Οικογενειακή",
       "Duration": "1 ωρ. 31 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false,
-      "beforeEnd": "0",
+      "fetchVideo": true,
+      "beforeEnd": "5",
       "Type": "media",
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 5,
-      "Fetch": ""
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Παράξενος Κόσμος",
@@ -495,7 +495,7 @@
       "Fetch": "Voe"
     },
     {
-      "Title": "Πινόκιο του Γκιγιέρμο Ντελ Τόρο",
+      "Title": "Tad: Η Σμαραγδένια Πλάκα",
       "ImageBack": "https://www.lifo.gr/sites/default/files/styles/facebook_with_logo/public/movies/2022/TAD2.jpg?itok=NqHLPCw4",
       "ImageMain": "https://www.filmy.gr/wp-content/uploads/2022/09/Tadeo-Jones-3-la-Tabla-Esmeralda-50.jpg",
       "Video": "https://voe.sx/wtq375i5ghzn",
